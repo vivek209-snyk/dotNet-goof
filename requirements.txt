@@ -11,7 +11,7 @@ idna==3.7
 ldap3==2.9
 #numpy==1.22.2
 #pandas==1.1.4
-pip==25.2
+pip==26.0
 pyasn1==0.4.8
 pycryptodome==3.19.1
 #pyodbc==4.0.31
